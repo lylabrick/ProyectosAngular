@@ -1,0 +1,30 @@
+# Compilados y salidas
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Dependencias
+/node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# IDEs y editores
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+
+# Archivos de Angular
+/.angular/cache
+.sass-cache/
+/coverage
+
+# Archivos del sistema operativo (Mac)
+.DS_Store
+Thumbs.db
